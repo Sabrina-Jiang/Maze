@@ -6,7 +6,7 @@
 #include <fstream> 
 #include <ctime>
 #include <stdlib.h> 
-
+ 
 using namespace std;
 struct box
 {
